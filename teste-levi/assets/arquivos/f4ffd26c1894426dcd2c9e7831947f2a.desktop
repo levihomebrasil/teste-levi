@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=SQLyog
+Exec=env WINEPREFIX="/home/levi/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/levi/.wine/dosdevices/c:/users/Public/Desktop/SQLyog.lnk
+Type=Application
+StartupNotify=true
+Path=/home/levi/.wine/dosdevices/z:/home/levi/Downloads/SQLyog
+Icon=1189_SQLyog.0

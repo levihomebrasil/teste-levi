@@ -1,0 +1,48 @@
+Na criação da página retirar o acento do nome, pontos e caracteres, que são comuns em razões sociais etc. -- FEITO
+
+Lista de Estados -- FEITO
+Acento da palavra Voo  no campo dúvidas. -- FEITO
+
+Ao clicar em Comprar caso esteja em Branco, colocar um aviso ou alguma mensagem padrão;
+
+\No campo empresa rever os acentos pois não ficam em maíusculo. -- FEITO
+
+Fax não deve ser obrigatório;-- FEITO
+
+Nenhuma link do rodapé funciona no painel do usuário; - FEITO
+
+Grid é só deixar por padrão 50 registros.  -- FEITO
+Organizar o grid view pelos mais recentes
+
+celulares terão 9 números, alterar? -- Não
+
+COnsegui cadastrar 2 vezes com os mesmos dados( -- FEITO
+
+Ao carregar a página após o cadastro, seria melhor aparecer o aviso mais visível, ou rolar direto para a parte de cadastro;
+
+Fonte dos botões da página produtos, podem confundir quem não pode ler direito(menos relevante).
+
+Primeiros passos faltou substituir o "infra estrutura disponibilizada a você." por "infra estrutura disponibilizada à você."
+
+ Imagem não apareceu Texto da página empresa.
+
+Falta um acento na "Texto Pagina Empresa", "Agência" na página DADOS  no painel do perfil;
+
+
+Na página de Tendências:  alterar =  "Nosso sistema é numero 1 e dispõe de ferramentas extraordinária, onde não existe nada igual, o mais importante e você estudar e colocar em pratica todo conteúdo gerando assim resultados positivos para você."
+
+consertar o "o mais importante é você estudar" e "pratica"; -- Feito
+
+Colocar o Bing na parte de buscadores? -- Feito
+
+Página principal do painel, Consertar o link meu Asessos do lado direito. -- Feito
+
+alterar os direitos autorais de 2011 por 2012? -- Feito
+
+
+douglas não está recebendo os emails.
+
+
+LInk de DUVIDAS -- Substituído para CONTATO
+
+Responsável, FAX não são mais obrigatórios....

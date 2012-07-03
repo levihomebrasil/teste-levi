@@ -1,0 +1,6 @@
+6LcX49ASAAAAAMC6Dq-ydFAZZGvM3M0mg9kYNyKX
+
+Use this in the JavaScript code that is served to your users
+Private Key: 	6LcX49ASAAAAALfhvCcEQdqp-S-Cwk1uYaoniNkO
+
+Use this when communicating between your server and our server. Be sure to keep it a secret.
